@@ -22,6 +22,7 @@ Bootstrap
 Electron Squirrel  
 Electron Compile  
 
-
+### View :
+[View Live App](https://nkosi-tauro.github.io/Spotify-Playlist/src/index.html)
 
 
