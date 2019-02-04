@@ -5,10 +5,23 @@ Electron Forge App
 
 clone repo  
 npm install   
-npm start or electron-forge start  
+npm start or electron-forge start 
+
+To use electron forge commands make sure you have it installed:  
+npm install -g electron-forge 
 
 ## To build :
 
+electron-forge package  
+electron-forge make  
+electron-forge publish  
 
-To use electron forge commands make sure you have it installed
-npm install -g electron-forge 
+## Dependencies: 
+
+Bootstrap  
+Electron Squirrel  
+Electron Compile  
+
+
+
+
